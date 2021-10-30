@@ -10,7 +10,7 @@ client.on('ready', ()=>{
   console.log(`${client.user.tag} is ready to chat with ${client.users.cache.size} people`)
 client.user.setActivity("Chatting with people", {
   type: "STREAMING",
-  url: "https://www.twitch.com/yassinehz"
+  url: "https://www.twitch.com/hzrh3ry"
 });
 });
 
